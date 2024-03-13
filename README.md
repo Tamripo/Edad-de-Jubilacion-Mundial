@@ -18,6 +18,7 @@ Mediante el análisis de los 3 indicadores se obtuvo que:
      ![image](https://github.com/Tamripo/Edad-de-Jubilacion-Mundial/assets/160193509/2c1b8855-0f48-4ede-a8f7-b756e1802477)
 
    - México y United Status son los países que esperan menos años para jubilarse.
-   - En América, las mujeres esperan más años para jubilarse que los hombres, en la mayoría de los casos aproximadamente 5 años más que los hombres.
+   - En América, las mujeres esperan más años para jubilarse que los hombres, en la mayoría de los casos aproximadamente 5 años más que  los hombres.
 
-    ![image](https://github.com/Tamripo/Edad-de-Jubilacion-Mundial/assets/160193509/58800bc0-14f0-4b0c-8cdf-f7e30e117c91)
+  ![image](https://github.com/Tamripo/Edad-de-Jubilacion-Mundial/assets/160193509/4d588ebf-e5b8-4574-8ba2-aab5ac130e63)
+
